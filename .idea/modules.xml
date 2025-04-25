@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Atleta/Atleta.iml" filepath="$PROJECT_DIR$/Atleta/Atleta.iml" />
+      <module fileurl="file://$PROJECT_DIR$/COAC/COAC.iml" filepath="$PROJECT_DIR$/COAC/COAC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Escritor/Escritor.iml" filepath="$PROJECT_DIR$/Escritor/Escritor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/PSP-REC.iml" filepath="$PROJECT_DIR$/.idea/PSP-REC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ventas_Entradas/Ventas_Entradas.iml" filepath="$PROJECT_DIR$/Ventas_Entradas/Ventas_Entradas.iml" />
+    </modules>
+  </component>
+</project>
